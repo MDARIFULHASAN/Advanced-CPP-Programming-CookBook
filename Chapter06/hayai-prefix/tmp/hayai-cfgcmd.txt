@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_INSTALL_PREFIX=/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/external/;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

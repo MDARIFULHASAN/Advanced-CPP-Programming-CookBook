@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter01/recipe02.cpp
+iostream
+-
+iostream
+-
+

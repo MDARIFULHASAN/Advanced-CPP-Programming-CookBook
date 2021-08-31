@@ -1,0 +1,13 @@
+# Target labels
+ hayai
+# Source files and their labels
+/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/CMakeFiles/hayai
+/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/CMakeFiles/hayai.rule
+/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/CMakeFiles/hayai-complete.rule
+/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/hayai-prefix/src/hayai-stamp/hayai-install.rule
+/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/hayai-prefix/src/hayai-stamp/hayai-mkdir.rule
+/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/hayai-prefix/src/hayai-stamp/hayai-download.rule
+/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/hayai-prefix/src/hayai-stamp/hayai-update.rule
+/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/hayai-prefix/src/hayai-stamp/hayai-patch.rule
+/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/hayai-prefix/src/hayai-stamp/hayai-configure.rule
+/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/hayai-prefix/src/hayai-stamp/hayai-build.rule

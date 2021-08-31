@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/CMakeFiles/hayai"
+		},
+		{
+			"file" : "/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/CMakeFiles/hayai.rule"
+		},
+		{
+			"file" : "/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/CMakeFiles/hayai-complete.rule"
+		},
+		{
+			"file" : "/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/hayai-prefix/src/hayai-stamp/hayai-install.rule"
+		},
+		{
+			"file" : "/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/hayai-prefix/src/hayai-stamp/hayai-mkdir.rule"
+		},
+		{
+			"file" : "/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/hayai-prefix/src/hayai-stamp/hayai-download.rule"
+		},
+		{
+			"file" : "/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/hayai-prefix/src/hayai-stamp/hayai-update.rule"
+		},
+		{
+			"file" : "/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/hayai-prefix/src/hayai-stamp/hayai-patch.rule"
+		},
+		{
+			"file" : "/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/hayai-prefix/src/hayai-stamp/hayai-configure.rule"
+		},
+		{
+			"file" : "/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter06/hayai-prefix/src/hayai-stamp/hayai-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"hayai"
+		],
+		"name" : "hayai"
+	}
+}

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/mhasan22/myGitHUB_Codes/Advanced-CPP-Programming-CookBook/Chapter05/recipe07.cpp
+thread
+-
+iostream
+-
+future
+-
+thread
+-
+iostream
+-
+future
+-
+
